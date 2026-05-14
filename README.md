@@ -4,9 +4,9 @@ Digitalitzant les petites i mitjanes empreses.
 
 ## Autor
 
-Nom: [Escriu el teu nom aquí]
+Nom: Jhon Justiniano
 
-Formant grups de treball: [Escriu els noms dels membres del grup aquí]: 
+Formant grups de treball: Hugo Muiños
 
 ## Descripció del projecte
 
