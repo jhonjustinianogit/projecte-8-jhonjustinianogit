@@ -12,6 +12,10 @@ La auditoría inicial que hemos realizado nos da como resultado la necesidad urg
 
 ### Auditoria:
 
+
+<img width="606" height="696" alt="image" src="https://github.com/user-attachments/assets/356ac651-af6d-4d6b-9b6e-374f5ea5dc1d" />
+
+
 | Descripción del Equipo | Estado Técnico y Operativo | Puntos Negros Identificados | Valoración de Riesgo e Impacto |
 | :---- | :---- | :---- | :---- |
 | 20 PCs de sobremesa (Fabricación: 2018). | • Procesadores con algunas deficiencias de disipación térmica. • 4GB de RAM (Cuellos de botella estructurales). • Unidades HDD de disco mecánico activas. | • Consumo: Un consumo derivado de la pérdida de la  energía que es un sobrecalentamiento. • Obsolescencia: Alto riesgo de descartar equipos útiles por degradación del software básico y lentitud operativa. | Crítico: Riesgo de convertirse en un residuo electrónico por pérdida de utilidad, lo cuál requiere de una intervención de la economía circular. |
