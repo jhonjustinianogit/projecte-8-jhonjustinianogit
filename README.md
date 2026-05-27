@@ -6,7 +6,7 @@ Digitalitzant les petites i mitjanes empreses.
 
 Nom: Jhon Justiniano
 
-Formant grups de treball: Hugo Muiños
+Formant grups de treball: Hugo Muiños - Jhon Justiniano
 
 ## Descripció del projecte
 
